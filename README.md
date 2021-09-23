@@ -16,7 +16,7 @@ Ejecutar el siguiente comando para clonar el repositorio
 git clone https://github.com/Damurq/api_rest-Employee.git
 ```
 
-Posteriorment ejecutar el la API REST con SpringBoot.
+Posteriorment ejeutar la API REST con SpringBoot.
 
 Nota: Para ejecutarlo debes utilizar un IDE que permita compilar Java, y sobre el archivo `PayrollApplication.java` ejecutar la opción `Run` en el caso de Visual Studio Code la opción es `Run Java`.
 
