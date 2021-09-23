@@ -18,7 +18,6 @@ class Employee {
   }
 
   Employee(String name, String lastname, String role) {
-
     this.name = name;
     this.lastname = lastname;
     this.role = role;
@@ -68,7 +67,6 @@ class Employee {
 
   @Override
   public boolean equals(Object o) {
-
     if (this == o)
       return true;
     if (!(o instanceof Employee))
